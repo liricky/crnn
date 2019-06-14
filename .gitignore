@@ -1,0 +1,5 @@
+##ignore this file##
+create_image/images/
+model/
+tfrecords/
+images_base/

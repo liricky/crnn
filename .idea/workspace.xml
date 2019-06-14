@@ -1,0 +1,675 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="82d9d676-388e-48e5-b815-82d4cf62e448" name="Default Changelist" comment="" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/train/train_crnn_ctc.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="2033">
+              <caret line="108" column="65" selection-start-line="108" selection-start-column="65" selection-end-line="108" selection-end-column="65" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/inference/inference_crnn_ctc.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="294">
+              <caret line="61" column="49" selection-start-line="61" selection-start-column="49" selection-end-line="61" selection-end-column="49" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/captcha_create/create_captcha_img.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="3211">
+              <caret line="170" column="14" selection-start-line="169" selection-start-column="14" selection-end-line="170" selection-end-column="14" />
+              <folding>
+                <element signature="e#0#10#0" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/crnn_model/model.py">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="522">
+              <caret line="72" column="31" selection-start-line="72" selection-start-column="31" selection-end-line="72" selection-end-column="31" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/create_image/images/0_重庆市闵行区华东师范大学.jpg">
+          <provider selected="true" editor-type-id="images" />
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="FindInProjectRecents">
+    <findStrings>
+      <find>lstm_hidden_uints</find>
+      <find>char_map_json_file</find>
+      <find>Flags</find>
+      <find>anno</find>
+      <find>annotation</find>
+      <find>captcha_generate_image</find>
+      <find>fonts</find>
+      <find>convert_json</find>
+      <find>getStep</find>
+      <find>json_dict_file_path</find>
+      <find>while</find>
+      <find>json_word_dict_file_path</find>
+      <find>_int_to</find>
+      <find>shuffle</find>
+      <find>width /</find>
+      <find>ctc_beam</find>
+      <find>/ 4</find>
+      <find>chinese_dict_file_path</find>
+      <find>chinese_wor</find>
+      <find>random</find>
+      <find>_sparse</find>
+      <find>build</find>
+      <find>image_list</find>
+      <find>train_decay</find>
+      <find>is_training</find>
+      <find>ops.GraphKeys.UPDATE_OPS</find>
+      <find>_fused_batch_norm</find>
+      <find>_batch_norm</find>
+      <find>CRNN_CTC</find>
+      <find>batch_norm</find>
+    </findStrings>
+    <replaceStrings>
+      <replace>create_image_path</replace>
+      <replace>tfrecords_data_dir</replace>
+      <replace>train_num_threads</replace>
+      <replace>train_step_per_eval</replace>
+      <replace>train_step_per_save</replace>
+      <replace>train_max_train_steps</replace>
+      <replace>train_learning_rate</replace>
+      <replace>train_decay_steps</replace>
+      <replace>image_height</replace>
+      <replace>image_shape[0]</replace>
+      <replace>crea</replace>
+      <replace>model_path</replace>
+      <replace>train_lstm_hidden_layers</replace>
+      <replace>train_lstm_hidden_uints</replace>
+      <replace>json_dict_file_path</replace>
+      <replace>tr</replace>
+      <replace>train_batch_size</replace>
+      <replace>json_word_dict_file_path</replace>
+    </replaceStrings>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/create_chinese_char_map.py" />
+        <option value="$PROJECT_DIR$/captcha_create/create.py" />
+        <option value="$PROJECT_DIR$/train/eval_crnn_ctc.py" />
+        <option value="$PROJECT_DIR$/dict_resource/chinese.txt" />
+        <option value="$PROJECT_DIR$/dict_resource/chinese1.txt" />
+        <option value="$PROJECT_DIR$/dict_resource/chinese_word.txt" />
+        <option value="$PROJECT_DIR$/dict_resource/chinese2.txt" />
+        <option value="$PROJECT_DIR$/dict_resource/chinese3.txt" />
+        <option value="$PROJECT_DIR$/captcha_create/create_chinese_char_map.py" />
+        <option value="$PROJECT_DIR$/create_image/annotation_list.txt" />
+        <option value="$PROJECT_DIR$/create_image/image_list.txt" />
+        <option value="$PROJECT_DIR$/train/train_crnn_ctc.py" />
+        <option value="$PROJECT_DIR$/config.py" />
+        <option value="$PROJECT_DIR$/captcha_create/create_crnn_ctc_tfrecord.py" />
+        <option value="$PROJECT_DIR$/captcha_create/create_captcha_img.py" />
+        <option value="$PROJECT_DIR$/inference/inference_crnn_ctc.py" />
+        <option value="$PROJECT_DIR$/crnn_model/model.py" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="4">
+    <option name="x" value="960" />
+    <option name="width" value="960" />
+    <option name="height" value="1080" />
+  </component>
+  <component name="ProjectView">
+    <navigator proportions="" version="1">
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="Scope" />
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="crnn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crnn" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crnn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crnn" type="462c0819:PsiDirectoryNode" />
+              <item name="captcha_create" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crnn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crnn" type="462c0819:PsiDirectoryNode" />
+              <item name="create_image" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crnn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crnn" type="462c0819:PsiDirectoryNode" />
+              <item name="crnn_model" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crnn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crnn" type="462c0819:PsiDirectoryNode" />
+              <item name="dict_resource" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crnn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crnn" type="462c0819:PsiDirectoryNode" />
+              <item name="fonts" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crnn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crnn" type="462c0819:PsiDirectoryNode" />
+              <item name="inference" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="crnn" type="b2602c69:ProjectViewProjectNode" />
+              <item name="crnn" type="462c0819:PsiDirectoryNode" />
+              <item name="train" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
+    <property name="nodejs_npm_path_reset_for_default_project" value="true" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/model" />
+      <recent name="$PROJECT_DIR$/dict_resource" />
+      <recent name="$PROJECT_DIR$/inference" />
+      <recent name="$PROJECT_DIR$/train" />
+      <recent name="$PROJECT_DIR$/tfrecords" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/crnn_model" />
+      <recent name="$PROJECT_DIR$/dict_resource" />
+      <recent name="$PROJECT_DIR$/captcha_create" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Python.create_crnn_ctc_tfrecord">
+    <configuration name="create_crnn_ctc_tfrecord" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="crnn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/captcha_create" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/captcha_create/create_crnn_ctc_tfrecord.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="eval_crnn_ctc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="crnn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/train" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train/eval_crnn_ctc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="inference_crnn_ctc" type="PythonConfigurationType" factoryName="Python" temporary="true">
+      <module name="crnn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/inference" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/inference/inference_crnn_ctc.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest for inference_crnn_ctc.test" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="crnn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/inference" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;inference_crnn_ctc.test&quot;" />
+      <option name="_new_targetType" value="&quot;PYTHON&quot;" />
+      <method v="2" />
+    </configuration>
+    <configuration name="pytest in inference_crnn_ctc.py" type="tests" factoryName="py.test" temporary="true" nameIsGenerated="true">
+      <module name="crnn" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/inference" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="_new_keywords" value="&quot;&quot;" />
+      <option name="_new_additionalArguments" value="&quot;&quot;" />
+      <option name="_new_target" value="&quot;$PROJECT_DIR$/inference/inference_crnn_ctc.py&quot;" />
+      <option name="_new_targetType" value="&quot;PATH&quot;" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.create_crnn_ctc_tfrecord" />
+        <item itemvalue="Python.eval_crnn_ctc" />
+        <item itemvalue="Python.inference_crnn_ctc" />
+        <item itemvalue="Python tests.pytest in inference_crnn_ctc.py" />
+        <item itemvalue="Python tests.pytest for inference_crnn_ctc.test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="82d9d676-388e-48e5-b815-82d4cf62e448" name="Default Changelist" comment="" />
+      <created>1558145935518</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1558145935518</updated>
+      <workItem from="1558145936606" duration="1259000" />
+      <workItem from="1558175515398" duration="5000" />
+      <workItem from="1558434722565" duration="42301000" />
+      <workItem from="1558542688829" duration="17061000" />
+      <workItem from="1558594411994" duration="4455000" />
+      <workItem from="1558602579184" duration="24114000" />
+      <workItem from="1558678310384" duration="2167000" />
+      <workItem from="1558680646108" duration="7275000" />
+      <workItem from="1558698473847" duration="7153000" />
+      <workItem from="1558705826471" duration="38370000" />
+      <workItem from="1558794549452" duration="7397000" />
+      <workItem from="1558842026434" duration="2332000" />
+      <workItem from="1558856795686" duration="5275000" />
+      <workItem from="1558869993229" duration="56000" />
+      <workItem from="1558931409103" duration="1605000" />
+      <workItem from="1558950656699" duration="6406000" />
+      <workItem from="1559130291736" duration="680000" />
+      <workItem from="1559231318746" duration="148000" />
+      <workItem from="1559284506954" duration="599000" />
+      <workItem from="1559832005366" duration="38240000" />
+      <workItem from="1559969117238" duration="8098000" />
+      <workItem from="1559983402580" duration="989000" />
+      <workItem from="1560001148748" duration="1945000" />
+      <workItem from="1560046589112" duration="490000" />
+      <workItem from="1560055291116" duration="6000" />
+      <workItem from="1560055303362" duration="10457000" />
+      <workItem from="1560080097092" duration="8719000" />
+      <workItem from="1560125650313" duration="374000" />
+      <workItem from="1560134323293" duration="1203000" />
+      <workItem from="1560152745944" duration="694000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="pytest_for_inference_crnn_ctc_test - 2019.05.26 at 11h 43m 32s.xml">
+      <configuration name="pytest for inference_crnn_ctc.test" configurationId="tests" />
+    </history-entry>
+    <history-entry file="pytest_in_inference_crnn_ctc_py - 2019.05.26 at 11h 44m 03s.xml">
+      <configuration name="pytest in inference_crnn_ctc.py" configurationId="tests" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="239873000" />
+  </component>
+  <component name="TodoView">
+    <todo-panel id="selected-file">
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+    <todo-panel id="all">
+      <are-packages-shown value="true" />
+      <is-autoscroll-to-source value="true" />
+    </todo-panel>
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="960" y="0" width="960" height="1080" extended-state="4" />
+    <layout>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.27951002" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" weight="0.21483096" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.20610687" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3293348" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.2977099" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3293348" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32992464" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout>
+    <layout-to-restore>
+      <window_info active="true" content_ui="combo" id="Project" order="0" visible="true" weight="0.30178174" />
+      <window_info id="Structure" order="1" side_tool="true" weight="0.25" />
+      <window_info id="Favorites" order="2" side_tool="true" />
+      <window_info anchor="bottom" id="Message" order="0" />
+      <window_info anchor="bottom" id="Find" order="1" />
+      <window_info anchor="bottom" id="Run" order="2" visible="true" weight="0.36095965" />
+      <window_info anchor="bottom" id="Debug" order="3" weight="0.20610687" />
+      <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
+      <window_info anchor="bottom" id="TODO" order="6" weight="0.3293348" />
+      <window_info anchor="bottom" id="Docker" order="7" show_stripe_button="false" />
+      <window_info anchor="bottom" id="Version Control" order="8" />
+      <window_info anchor="bottom" id="Database Changes" order="9" />
+      <window_info anchor="bottom" id="Event Log" order="10" side_tool="true" />
+      <window_info anchor="bottom" id="Terminal" order="11" weight="0.2944384" />
+      <window_info anchor="bottom" id="Python Console" order="12" weight="0.3293348" />
+      <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
+      <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
+      <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
+      <window_info anchor="right" id="SciView" order="3" weight="0.32992464" />
+      <window_info anchor="right" id="Database" order="4" />
+    </layout-to-restore>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/crnn$pytest_for_inference_crnn_ctc_test.coverage" NAME="pytest for inference_crnn_ctc.test Coverage Results" MODIFIED="1558842206739" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/inference" />
+    <SUITE FILE_PATH="coverage/crnn$create_chinese_char_map.coverage" NAME="create_chinese_char_map Coverage Results" MODIFIED="1558437273290" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/crnn$train_crnn_ctc.coverage" NAME="train_crnn_ctc Coverage Results" MODIFIED="1558784554911" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/train" />
+    <SUITE FILE_PATH="coverage/crnn$inference_crnn_ctc.coverage" NAME="inference_crnn_ctc Coverage Results" MODIFIED="1558842393075" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/inference" />
+    <SUITE FILE_PATH="coverage/crnn$pytest_in_inference_crnn_ctc_py.coverage" NAME="pytest in inference_crnn_ctc.py Coverage Results" MODIFIED="1558842239131" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/inference" />
+    <SUITE FILE_PATH="coverage/crnn$eval_crnn_ctc.coverage" NAME="eval_crnn_ctc Coverage Results" MODIFIED="1558939994181" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/train" />
+    <SUITE FILE_PATH="coverage/crnn$create_crnn_ctc_tfrecord.coverage" NAME="create_crnn_ctc_tfrecord Coverage Results" MODIFIED="1560065757598" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/captcha_create" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/create_image/images/492_奉徐上行口区金奉普区陀徐徐松崇嘉.jpg" />
+    <entry file="file://$PROJECT_DIR$/create_image/images/493_东闵贤青奉黄松安定汇.jpg" />
+    <entry file="file://$PROJECT_DIR$/create_image/images/494_安行青明明青浦.jpg" />
+    <entry file="file://$PROJECT_DIR$/create_image/images/495_金.jpg" />
+    <entry file="file://$PROJECT_DIR$/create_image/images/496_嘉闵徐嘉松闵杨浦东.jpg" />
+    <entry file="file://$PROJECT_DIR$/create_image/images/497_新上黄.jpg" />
+    <entry file="file://$PROJECT_DIR$/create_image/images/498_黄闵崇东.jpg" />
+    <entry file="file://$PROJECT_DIR$/create_image/images/499_黄行贤奉山虹陀明.jpg" />
+    <entry file="file://$PROJECT_DIR$/create_image/images/500_安新闵松宁宁.jpg" />
+    <entry file="file://$PROJECT_DIR$/create_image/images/501_松定贤区黄黄普明口杨黄安.jpg" />
+    <entry file="file://$PROJECT_DIR$/create_image/images/502_江宝黄新嘉嘉杨崇嘉上.jpg" />
+    <entry file="file://$PROJECT_DIR$/create_image/images/503_东崇金市普青崇闵区金虹宝贤.jpg" />
+    <entry file="file://$PROJECT_DIR$/create_image/images/504_青定黄宁徐.jpg" />
+    <entry file="file://$PROJECT_DIR$/create_image/images/505_闵闵新静安定东崇虹.jpg" />
+    <entry file="file://$PROJECT_DIR$/create_image/images/506_口江嘉浦行崇山杨安上.jpg" />
+    <entry file="file://$PROJECT_DIR$/create_image/images/507_松普行东青.jpg" />
+    <entry file="file://$PROJECT_DIR$/create_image/images/508_奉.jpg" />
+    <entry file="file://$PROJECT_DIR$/create_image/images/509_长.jpg" />
+    <entry file="file://$PROJECT_DIR$/create_image/images/510_口.jpg" />
+    <entry file="file://$PROJECT_DIR$/create_image/images/511_明崇宁东定.jpg" />
+    <entry file="file://$PROJECT_DIR$/train/eval_crnn_ctc.py" />
+    <entry file="file://$PROJECT_DIR$/create_image/images/0_浦东新区闵行区杨浦区.jpg" />
+    <entry file="file://$PROJECT_DIR$/dict_resource/char_map.json" />
+    <entry file="file://$PROJECT_DIR$/create_image/images/56_上海交通大学华东师范大学华东师范大学上海交通大学.jpg" />
+    <entry file="file://$PROJECT_DIR$/dict_resource/chinese.txt" />
+    <entry file="file://$PROJECT_DIR$/dict_resource/chinese_word.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="698">
+          <caret line="49" selection-start-line="49" selection-end-line="49" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/anaconda3/lib/python3.6/random.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="245">
+          <caret line="751" selection-start-line="751" selection-end-line="751" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dict_resource/chinese2.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="285">
+          <caret line="15" column="3" selection-start-line="15" selection-start-column="3" selection-end-line="15" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/anaconda3/lib/python3.6/site-packages/tensorflow/python/ops/ctc_ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="227">
+          <caret line="234" column="4" selection-start-line="234" selection-start-column="4" selection-end-line="234" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/anaconda3/lib/python3.6/site-packages/tensorflow/python/framework/ops.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-37">
+          <caret line="1306" column="4" selection-start-line="1306" selection-start-column="4" selection-end-line="1306" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/anaconda3/lib/python3.6/site-packages/tensorflow/python/training/input.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="248">
+          <caret line="337" column="48" selection-start-line="337" selection-start-column="48" selection-end-line="337" selection-end-column="48" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/captcha_create/create_chinese_char_map.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="950">
+          <caret line="51" column="29" selection-start-line="51" selection-start-column="29" selection-end-line="51" selection-end-column="29" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/anaconda3/lib/python3.6/site-packages/tensorflow/python/lib/io/file_io.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-275">
+          <caret line="312" column="4" selection-start-line="312" selection-start-column="4" selection-end-line="312" selection-end-column="4" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/model/checkpoint" />
+    <entry file="file://$USER_HOME$/Downloads/anaconda3/lib/python3.6/site-packages/tensorflow/python/training/saver.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34523">
+          <caret line="1856" column="59" selection-start-line="1856" selection-start-column="59" selection-end-line="1856" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/create_image/annotation_list.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="551">
+          <caret line="29" selection-start-line="29" selection-end-line="29" selection-end-column="28" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/config.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="608">
+          <caret line="33" column="23" selection-start-line="33" selection-start-column="23" selection-end-line="33" selection-end-column="23" />
+          <folding>
+            <element signature="e#0#11#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dict_resource/char_word_map.json">
+      <provider selected="true" editor-type-id="text-editor" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dict_resource/chinese1.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="3" selection-start-line="3" selection-start-column="3" selection-end-line="3" selection-end-column="3" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/create_image/images/3_上海市浦东新区复旦大学.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/create_image/images/5_天津市松江区交通大学.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/create_image/images/9_重庆市奉贤区华东师范大学.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+    <entry file="file://$PROJECT_DIR$/captcha_create/create_crnn_ctc_tfrecord.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1132">
+          <caret line="107" selection-start-line="107" selection-end-line="107" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/create_image/image_list.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="247">
+          <caret line="13" column="13" selection-start-line="13" selection-start-column="13" selection-end-line="13" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$USER_HOME$/Downloads/anaconda3/lib/python3.6/site-packages/tensorflow/contrib/layers/python/layers/layers.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="19">
+          <caret line="181" column="56" selection-start-line="181" selection-start-column="56" selection-end-line="181" selection-end-column="56" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/dict_resource/chinese3.txt">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="57">
+          <caret line="3" column="6" selection-start-line="3" selection-start-column="6" selection-end-line="3" selection-end-column="6" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/train/train_crnn_ctc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="2033">
+          <caret line="108" column="65" selection-start-line="108" selection-start-column="65" selection-end-line="108" selection-end-column="65" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/captcha_create/create_captcha_img.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="3211">
+          <caret line="170" column="14" selection-start-line="169" selection-start-column="14" selection-end-line="170" selection-end-column="14" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/inference/inference_crnn_ctc.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="294">
+          <caret line="61" column="49" selection-start-line="61" selection-start-column="49" selection-end-line="61" selection-end-column="49" />
+          <folding>
+            <element signature="e#0#10#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/crnn_model/model.py">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="72" column="31" selection-start-line="72" selection-start-column="31" selection-end-line="72" selection-end-column="31" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/create_image/images/0_重庆市闵行区华东师范大学.jpg">
+      <provider selected="true" editor-type-id="images" />
+    </entry>
+  </component>
+</project>
